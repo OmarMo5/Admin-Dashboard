@@ -18,6 +18,8 @@
     - Geography page Simple Geography Chart.
 
 # Instruction for run app Locally.
+- install vite.
+- install material UI.
 - Run (npm i .)
 - change "homePage='/'" in package.json file
 - Run (npm run dev)
